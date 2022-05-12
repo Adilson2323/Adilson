@@ -1,4 +1,4 @@
-# Olá! Eu sou o Adilson Silva 👋
+# Olá! Eu sou Adilson Silva 👋
 
 🎈 Atualmente faço Faculdade de Análise e Desenvolvimento de Sistemas 3º Semestre
 
